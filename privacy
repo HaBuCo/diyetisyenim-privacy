@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Diyetisyenim - Gizlilik Politikası</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1 {
+      text-align: center;
+      color: #2c3e50;
+    }
+    h2 {
+      color: #34495e;
+      margin-top: 30px;
+    }
+    p {
+      margin-bottom: 15px;
+    }
+    ul {
+      margin-left: 20px;
+    }
+    .section {
+      background: #fff;
+      padding: 20px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>Gizlilik Politikası</h1>
+
+  <div class="section">
+    <p><strong>Bu uygulama ("Diyetisyenim")</strong>, kullanıcıların kişisel verilerini korumayı taahhüt eder. 
+    Bu gizlilik politikası, kullanıcılarımızdan hangi verileri topladığımızı, bu verileri nasıl kullandığımızı ve ne şekilde sakladığımızı açıklar.</p>
+  </div>
+
+  <div class="section">
+    <h2>1. Toplanan Veriler</h2>
+    <ul>
+      <li>Ad Soyad</li>
+      <li>E-posta adresi</li>
+      <li>Profil fotoğrafı (isteğe bağlı)</li>
+      <li>Klinik bilgisi</li>
+      <li>Diyetisyen bilgisi</li>
+      <li>Bildirim token bilgisi</li>
+      <li>Rol bilgisi</li>
+      <li>Son giriş zamanı</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>2. Kullanım Amaçları</h2>
+    <ul>
+      <li>Randevu takibi</li>
+      <li>Kişiselleştirme</li>
+      <li>Bildirim gönderme</li>
+      <li>Analiz amaçlı kullanım (Google Analytics)</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>3. 3. Taraf Servisler</h2>
+    <ul>
+      <li>Firebase</li>
+      <li>Google Analytics</li>
+    </ul>
+  </div>
+
+  <div class="section">
+    <h2>4. Saklama ve Silme</h2>
+    <ul>
+      <li>Kullanıcı dilerse hesabını silebilir.</li>
+      <li>Tüm veriler Firebase'den silinir.</li>
+    </ul>
+  </div>
+</body>
+</html>
